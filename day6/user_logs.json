@@ -1,0 +1,56 @@
+[
+    {
+      "user_id": 0,
+      "activity_time": "2025-02-03 13:42:00",
+      "activity_type": "surfing",
+      "duration": 435
+    },
+    {
+      "user_id": 1,
+      "activity_time": "2025-02-10 09:15:00",
+      "activity_type": "reading",
+      "duration": 120
+    },
+    {
+      "user_id": 2,
+      "activity_time": "2025-02-21 18:07:00",
+      "activity_type": "running",
+      "duration": 300
+    },
+    {
+      "user_id": 1,
+      "activity_time": "2025-02-14 22:29:00",
+      "activity_type": "gaming",
+      "duration": 200
+    },
+    {
+      "user_id": 0,
+      "activity_time": "2025-02-25 07:45:00",
+      "activity_type": "surfing",
+      "duration": 360
+    },
+    {
+      "user_id": 2,
+      "activity_time": "2025-02-08 16:12:00",
+      "activity_type": "reading",
+      "duration": 150
+    },
+    {
+      "user_id": 3,
+      "activity_time": "2025-02-19 20:53:00",
+      "activity_type": "cooking",
+      "duration": 90
+    },
+    {
+      "user_id": 3,
+      "activity_time": "2025-02-27 08:10:00",
+      "activity_type": "surfing",
+      "duration": 180
+    },
+    {
+      "user_id": 0,
+      "activity_time": "2025-02-05 06:30:00",
+      "activity_type": "meditation",
+      "duration": 45
+    }
+  ]

@@ -57,6 +57,63 @@
 -- 	update set salary = source.salary
 -- when not matched then
 -- 	insert(emp_id, name, salary)
--- 	values(source.emp_id, source.name, source.salary)
+-- 	values(source.emp_id, source.name, source.salary
+
+-- alter table new_employees modify column emp_id int, add primary key(emp_id)
+
+-- insert into new_employees (emp_id, name, salary)
+-- select emp_id, name, salary from employees as t
+-- on duplicate key update 
+-- 	name=t.name,
+--     salary=t.salary
+
+-- CREATE TABLE sales (
+--   sale_id INT PRIMARY KEY,
+--   sale_date DATE,
+--   amount DECIMAL(10,2)
+-- );
+
+-- INSERT INTO sales VALUES
+-- (1, '2024-01-05', 1500),
+-- (2, '2024-01-20', 2200),
+-- (3, '2024-02-10', 3000),
+-- (4, '2024-03-12', 3500),
+-- (5, '2024-03-20', 1800);
+
+-- select date_format(sale_date, '%Y-%m'), sum(amount) monthly, sum(amount) over (order by sale_date)
+-- from sales
+-- group by date_format(sale_date, '%Y-%m')
 
 
+-- select m.month, m.monthly, sum(m.monthly) over (order by m.month)
+-- from (
+-- 	select date_format(sale_date, '%Y-%m') month, sum(amount) monthly
+--     from sales
+--     group by date_format(sale_date, '%Y-%m')
+-- ) m
+
+
+-- select * from accounts
+
+-- update accounts set balance=balance-100 where acc_id=1
+-- SET autocommit = 0;
+
+-- start transaction;
+-- update accounts set balance=balance+100 where acc_id=1;
+-- select sleep(15);
+-- update accounts set balance=balance-100 where acc_id=1;
+-- commit;
+
+
+-- create table sample (id int primary key auto_increment, name varchar(100), lastname varchar(100))
+
+delimiter //
+create procedure addUser(in p_name varchar(100), in p_lastname varchar(100), out p_new_id int)
+begin 
+	insert into sample (name, lastname) values (p_name, p_lastname);
+    set p_new_id = last_insert_id();
+end //
+delimiter ;
+
+call addUser('dsfsdf', 'sdf', @new_id);
+select @new_id;
