@@ -1,0 +1,5 @@
+alice is engineer
+carol is dancer
+david is mechanic
+bob is doctor
+eva is teacher
