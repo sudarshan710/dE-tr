@@ -1,0 +1,701 @@
+,id,region
+0,536,North America
+1,141,Australia
+2,325,Europe
+3,539,Asia
+4,555,South America
+5,265,Antartica
+6,666,Australia
+7,361,North America
+8,161,Asia
+9,471,South America
+10,188,Antartica
+11,124,Africa
+12,51,South America
+13,192,Europe
+14,466,North America
+15,40,Africa
+16,246,Australia
+17,92,Australia
+18,633,Europe
+19,617,Australia
+20,544,Africa
+21,175,Asia
+22,117,Africa
+23,430,Europe
+24,164,Europe
+25,640,Europe
+26,318,Europe
+27,493,Europe
+28,269,Europe
+29,236,Africa
+30,458,Europe
+31,369,Africa
+32,294,Asia
+33,154,Asia
+34,499,South America
+35,511,Asia
+36,249,North America
+37,15,Australia
+38,418,Africa
+39,149,South America
+40,147,Asia
+41,548,South America
+42,100,South America
+43,211,Australia
+44,599,North America
+45,464,South America
+46,345,South America
+47,676,North America
+48,213,Europe
+49,510,Antartica
+50,30,South America
+51,81,North America
+52,38,Europe
+53,442,Australia
+54,608,Antartica
+55,204,Australia
+56,95,North America
+57,256,North America
+58,459,North America
+59,527,South America
+60,203,Asia
+61,688,South America
+62,531,Antartica
+63,35,Asia
+64,150,Europe
+65,232,Australia
+66,663,Africa
+67,172,North America
+68,370,Antartica
+69,400,Australia
+70,446,Africa
+71,130,North America
+72,93,South America
+73,409,Europe
+74,315,Asia
+75,56,Asia
+76,242,North America
+77,696,Europe
+78,680,Australia
+79,674,South America
+80,641,North America
+81,513,South America
+82,180,Africa
+83,434,Asia
+84,502,Africa
+85,585,North America
+86,421,Australia
+87,268,South America
+88,205,South America
+89,291,North America
+90,693,Asia
+91,163,South America
+92,682,Europe
+93,483,Asia
+94,503,Antartica
+95,698,Africa
+96,378,Asia
+97,283,Europe
+98,233,South America
+99,217,Asia
+100,496,Antartica
+101,58,South America
+102,235,North America
+103,453,Africa
+104,171,Europe
+105,142,South America
+106,111,Antartica
+107,53,North America
+108,339,Europe
+109,190,Australia
+110,157,Europe
+111,198,South America
+112,656,Africa
+113,564,North America
+114,613,North America
+115,518,Asia
+116,602,Asia
+117,295,Australia
+118,182,Asia
+119,11,North America
+120,557,North America
+121,393,Australia
+122,619,Europe
+123,10,Europe
+124,620,North America
+125,4,North America
+126,462,Asia
+127,474,Africa
+128,657,Antartica
+129,286,Antartica
+130,271,Africa
+131,554,Australia
+132,675,Europe
+133,222,Africa
+134,628,Africa
+135,118,Antartica
+136,382,North America
+137,581,Asia
+138,274,Australia
+139,155,Australia
+140,659,Australia
+141,132,Antartica
+142,127,Australia
+143,558,Africa
+144,193,North America
+145,672,Asia
+146,655,North America
+147,338,South America
+148,556,Europe
+149,681,South America
+150,671,Antartica
+151,277,North America
+152,669,North America
+153,379,Australia
+154,436,South America
+155,221,North America
+156,185,Europe
+157,500,Europe
+158,437,Europe
+159,332,Europe
+160,247,South America
+161,101,Europe
+162,491,Australia
+163,551,Africa
+164,140,Asia
+165,490,Asia
+166,411,Africa
+167,438,North America
+168,279,Antartica
+169,107,South America
+170,637,Asia
+171,131,Africa
+172,611,South America
+173,201,Africa
+174,573,Antartica
+175,0,Asia
+176,456,Australia
+177,272,Antartica
+178,225,Australia
+179,616,Asia
+180,631,Australia
+181,43,Australia
+182,590,South America
+183,463,Australia
+184,139,Antartica
+185,19,Africa
+186,86,South America
+187,623,Asia
+188,450,South America
+189,152,Africa
+190,505,Australia
+191,519,Australia
+192,321,Antartica
+193,293,Antartica
+194,289,South America
+195,593,Africa
+196,94,Europe
+197,470,Australia
+198,308,Asia
+199,72,South America
+200,487,North America
+201,75,Africa
+202,495,Africa
+203,80,Europe
+204,212,South America
+205,460,Africa
+206,480,North America
+207,639,South America
+208,341,Africa
+209,296,South America
+210,402,Europe
+211,54,Africa
+212,317,South America
+213,575,Australia
+214,604,South America
+215,553,Asia
+216,336,Asia
+217,104,Antartica
+218,306,Africa
+219,661,Europe
+220,651,Asia
+221,660,South America
+222,314,Antartica
+223,475,Antartica
+224,550,North America
+225,298,North America
+226,313,Africa
+227,109,North America
+228,248,Europe
+229,304,Europe
+230,506,South America
+231,177,South America
+232,343,Asia
+233,133,Asia
+234,649,Africa
+235,542,Europe
+236,383,Africa
+237,28,Asia
+238,37,South America
+239,23,South America
+240,162,Australia
+241,47,Africa
+242,121,South America
+243,67,North America
+244,76,Antartica
+245,66,Europe
+246,328,Antartica
+247,31,Europe
+248,606,North America
+249,227,Europe
+250,399,Asia
+251,498,Australia
+252,26,Africa
+253,244,Antartica
+254,565,Africa
+255,579,Africa
+256,515,North America
+257,650,Antartica
+258,394,South America
+259,88,North America
+260,686,Asia
+261,583,South America
+262,426,Antartica
+263,538,Antartica
+264,690,North America
+265,350,Asia
+266,356,Antartica
+267,598,Europe
+268,200,North America
+269,457,South America
+270,451,Europe
+271,267,Australia
+272,273,Asia
+273,123,North America
+274,228,North America
+275,255,Europe
+276,534,South America
+277,106,Australia
+278,223,Antartica
+279,71,Australia
+280,467,Africa
+281,605,Europe
+282,197,Australia
+283,540,Australia
+284,673,Australia
+285,391,Antartica
+286,99,Australia
+287,582,Australia
+288,344,Australia
+289,310,South America
+290,278,Africa
+291,584,Europe
+292,21,Asia
+293,477,Australia
+294,214,North America
+295,299,Africa
+296,403,North America
+297,292,Africa
+298,578,North America
+299,202,Antartica
+300,699,Antartica
+301,160,Antartica
+302,687,Australia
+303,70,Asia
+304,206,Europe
+305,226,South America
+306,126,Asia
+307,260,Australia
+308,630,Asia
+309,461,Antartica
+310,524,Antartica
+311,41,Antartica
+312,476,Asia
+313,85,Australia
+314,385,Asia
+315,125,Antartica
+316,410,North America
+317,199,Europe
+318,455,Asia
+319,541,South America
+320,82,Africa
+321,39,North America
+322,389,North America
+323,626,Europe
+324,79,South America
+325,489,Antartica
+326,413,Asia
+327,449,Australia
+328,497,Asia
+329,521,Europe
+330,443,South America
+331,366,South America
+332,406,Asia
+333,136,Europe
+334,218,Australia
+335,507,Europe
+336,441,Asia
+337,533,Australia
+338,207,North America
+339,282,South America
+340,189,Asia
+341,415,South America
+342,288,Australia
+343,501,North America
+344,270,North America
+345,78,Australia
+346,447,Antartica
+347,134,Australia
+348,522,North America
+349,627,North America
+350,250,Africa
+351,112,Asia
+352,300,Antartica
+353,276,Europe
+354,219,South America
+355,120,Australia
+356,634,North America
+357,97,Antartica
+358,42,Asia
+359,439,Africa
+360,587,Antartica
+361,635,Africa
+362,405,Antartica
+363,49,Asia
+364,311,Europe
+365,52,Europe
+366,574,Asia
+367,368,North America
+368,484,Australia
+369,445,North America
+370,478,South America
+371,45,Europe
+372,512,Australia
+373,417,North America
+374,422,South America
+375,614,Africa
+376,615,Antartica
+377,594,Antartica
+378,516,Africa
+379,239,Australia
+380,607,Africa
+381,181,Antartica
+382,351,Australia
+383,29,Australia
+384,105,Asia
+385,143,Europe
+386,307,Antartica
+387,376,Africa
+388,547,Australia
+389,643,Antartica
+390,523,Africa
+391,530,Africa
+392,349,Antartica
+393,357,Asia
+394,305,North America
+395,159,Africa
+396,48,Antartica
+397,183,Australia
+398,360,Europe
+399,412,Antartica
+400,230,Antartica
+401,57,Australia
+402,261,South America
+403,367,Europe
+404,355,Africa
+405,6,Antartica
+406,396,North America
+407,427,Asia
+408,677,Africa
+409,231,Asia
+410,32,North America
+411,601,Antartica
+412,285,Africa
+413,596,Australia
+414,625,South America
+415,63,Asia
+416,567,Asia
+417,259,Asia
+418,454,Antartica
+419,103,Africa
+420,468,Antartica
+421,284,North America
+422,220,Europe
+423,479,Europe
+424,392,Asia
+425,577,Europe
+426,36,Australia
+427,572,Africa
+428,697,North America
+429,98,Asia
+430,528,Europe
+431,632,South America
+432,25,North America
+433,537,Africa
+434,96,Africa
+435,532,Asia
+436,165,North America
+437,591,Europe
+438,648,North America
+439,365,Australia
+440,73,Europe
+441,62,Antartica
+442,312,North America
+443,195,Antartica
+444,492,South America
+445,452,North America
+446,77,Asia
+447,420,Asia
+448,576,South America
+449,129,Europe
+450,191,South America
+451,187,Africa
+452,535,Europe
+453,13,Antartica
+454,186,North America
+455,241,Europe
+456,694,Australia
+457,108,Europe
+458,89,Africa
+459,618,South America
+460,281,Australia
+461,145,Africa
+462,61,Africa
+463,652,Australia
+464,69,Antartica
+465,55,Antartica
+466,18,North America
+467,485,South America
+468,374,Europe
+469,119,Asia
+470,333,North America
+471,353,Europe
+472,337,Australia
+473,684,Africa
+474,116,North America
+475,33,Africa
+476,257,Africa
+477,352,South America
+478,8,Australia
+479,1,Australia
+480,3,Europe
+481,398,Antartica
+482,252,Asia
+483,386,Australia
+484,7,Asia
+485,2,South America
+486,16,South America
+487,342,Antartica
+488,302,Australia
+489,122,Europe
+490,240,South America
+491,50,Australia
+492,323,Australia
+493,264,Africa
+494,68,Africa
+495,387,South America
+496,102,North America
+497,263,North America
+498,562,South America
+499,287,Asia
+500,636,Antartica
+501,372,Australia
+502,404,Africa
+503,653,South America
+504,243,Africa
+505,170,South America
+506,395,Europe
+507,216,Antartica
+508,419,Antartica
+509,229,Africa
+510,64,Australia
+511,448,Asia
+512,526,Australia
+513,280,Asia
+514,309,Australia
+515,254,South America
+516,407,Australia
+517,135,South America
+518,358,Australia
+519,158,North America
+520,44,South America
+521,529,North America
+522,595,Asia
+523,340,North America
+524,668,Europe
+525,423,Europe
+526,301,Asia
+527,237,Antartica
+528,194,Africa
+529,324,South America
+530,329,Asia
+531,472,Europe
+532,543,North America
+533,215,Africa
+534,667,South America
+535,60,North America
+536,153,Antartica
+537,388,Europe
+538,224,Asia
+539,166,Africa
+540,320,Africa
+541,508,North America
+542,482,Antartica
+543,251,Antartica
+544,560,Asia
+545,148,Australia
+546,662,North America
+547,691,Africa
+548,603,Australia
+549,238,Asia
+550,609,Asia
+551,444,Europe
+552,359,South America
+553,46,North America
+554,481,Africa
+555,514,Europe
+556,335,Antartica
+557,334,Africa
+558,384,Antartica
+559,401,South America
+560,440,Antartica
+561,424,North America
+562,559,Antartica
+563,326,North America
+564,34,Antartica
+565,176,Australia
+566,354,North America
+567,658,Asia
+568,381,Europe
+569,592,North America
+570,435,Australia
+571,174,Antartica
+572,156,South America
+573,504,Asia
+574,362,Africa
+575,665,Asia
+576,525,Asia
+577,494,North America
+578,570,Europe
+579,363,Antartica
+580,545,Antartica
+581,377,Antartica
+582,146,Antartica
+583,209,Antartica
+584,416,Europe
+585,561,Australia
+586,414,Australia
+587,546,Asia
+588,210,Asia
+589,670,Africa
+590,683,North America
+591,371,Asia
+592,196,Asia
+593,568,Australia
+594,428,Australia
+595,290,Europe
+596,266,Asia
+597,110,Africa
+598,566,Antartica
+599,347,North America
+600,114,South America
+601,5,Africa
+602,253,Australia
+603,208,Africa
+604,589,Australia
+605,84,Asia
+606,9,South America
+607,644,Asia
+608,184,South America
+609,346,Europe
+610,433,Antartica
+611,262,Europe
+612,600,Africa
+613,597,South America
+614,473,North America
+615,83,Antartica
+616,331,South America
+617,169,Australia
+618,258,Antartica
+619,647,Europe
+620,685,Antartica
+621,552,Antartica
+622,654,Europe
+623,65,South America
+624,679,Asia
+625,316,Australia
+626,380,South America
+627,173,Africa
+628,569,South America
+629,429,South America
+630,425,Africa
+631,488,Africa
+632,373,South America
+633,612,Europe
+634,629,Antartica
+635,586,Africa
+636,692,Antartica
+637,179,North America
+638,245,Asia
+639,678,Antartica
+640,486,Europe
+641,621,Africa
+642,12,Africa
+643,509,Africa
+644,390,Africa
+645,168,Asia
+646,319,North America
+647,115,Europe
+648,563,Europe
+649,364,Asia
+650,645,Australia
+651,664,Antartica
+652,517,Antartica
+653,431,North America
+654,695,South America
+655,646,South America
+656,138,Africa
+657,297,Europe
+658,348,Africa
+659,275,South America
+660,303,South America
+661,622,Antartica
+662,144,North America
+663,689,Europe
+664,91,Asia
+665,588,Asia
+666,397,Africa
+667,20,Antartica
+668,375,North America
+669,151,North America
+670,90,Antartica
+671,74,North America
+672,113,Australia
+673,520,South America
+674,408,South America
+675,59,Europe
+676,167,Antartica
+677,87,Europe
+678,624,Australia
+679,610,Australia
+680,549,Europe
+681,330,Australia
+682,322,Asia
+683,27,Antartica
+684,638,Australia
+685,178,Europe
+686,22,Australia
+687,432,Africa
+688,469,Asia
+689,234,Europe
+690,465,Europe
+691,580,Antartica
+692,24,Europe
+693,642,Africa
+694,17,Europe
+695,128,South America
+696,571,North America
+697,14,Asia
+698,137,North America
+699,327,Africa
