@@ -65,7 +65,6 @@ def createPITCustomer(deltaPathVault, refDates):
 
     return finalPITCust
 
-
 def createPITProduct(deltaPathVault, refDates):
     hubProducts = spark.read.format("delta").load(deltaPathVault+"/hub_products").alias("hub")
     satProducts = spark.read.format("delta").load(deltaPathVault+"/sat_products").alias("sat")
